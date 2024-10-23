@@ -8,4 +8,7 @@
 ## shell
 # 4 - git add 
 # 5 - git commit 
-# 6 - git push -u origin HEAD (Head -> esta maquina)
+# 6 - git push origin nomedabranch 
+
+
+### De resto, é tudo pelo github, mas ainda tenho duvidas
